@@ -1,4 +1,4 @@
-# Genre Video Generator
+# Custom Trailer Generation
 
 A Node.js module that generates custom video compilations based on genre-specific scenes from a source video. This tool analyzes video segments using genre attributes and creates a new video containing the most relevant scenes for selected genres.
 
